@@ -1,0 +1,20 @@
+{
+  "client_id": "https://reachcreator.github.io/upwork-mcp-client/client-metadata.json",
+  "client_name": "Hermes (fastermule9000)",
+  "client_uri": "https://reachcreator.com",
+  "application_type": "native",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "redirect_uris": [
+    "http://192.168.8.134:27890/callback",
+    "http://192.168.8.134:27891/callback",
+    "http://127.0.0.1:27890/callback",
+    "http://localhost:27890/callback"
+  ]
+}
